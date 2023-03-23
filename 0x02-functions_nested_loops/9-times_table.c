@@ -2,11 +2,10 @@
 
 
 /**
- * main -  write a function that prints the 9 times table, starting with 0
- * Return: Always 0
+ * main - check the code
+ *
  */
-int main(void)
-
+void times_table(void)
 {
 	int i, j, k;
 
